@@ -1,1 +1,2 @@
-npm start
+- Connect your mongoDB 
+- npm start
